@@ -1,8 +1,7 @@
-# React Jobs Project (YouTube)
+# React Project
 
 This is the jobs listing project.
 
-<img src="public/screen.png" />
 
 ## Usage
 
